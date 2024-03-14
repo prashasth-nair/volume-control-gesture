@@ -1,12 +1,18 @@
 
 # Volume Control using Hand Gesture
 
-A brief description of what this project does and who it's for
+This Python project utilizes OpenCV to control the volume of your computer using hand gestures. It calculates the distance between the thumb and index finger to determine the desired volume level.
 
+## Features
+
+- Control volume using hand gestures
+- Calculates distance between thumb and index finger for precise control
+- Adjust volume in real-time based on hand movement
 
 ## Requirements
 - Python 3.x
 - OpenCV
+  
 ## Deployment
 
 Clone the repository to your local machine
@@ -36,10 +42,5 @@ Run the script
 ## How to Use
 
 -  The script captures video feed from the default camera.
-
-- You need to make the following gestures to control the volume:
-
-    Move your hand up to increase the volume
-
-    Move your hand down to decrease the volume
-
+- Position your hand in front of the camera with your thumb and index finger extended.
+- Move your hand closer or further apart to adjust the volume level.

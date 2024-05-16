@@ -18,8 +18,7 @@ This Python project utilizes OpenCV to control the volume of your computer using
 Clone the repository to your local machine
 
 ```bash
-  $ git clone https://github.com/YOUR-USERNAME/Volume-Control-using-Hand-Gesture.git
-
+  $ git clone https://github.com/prashasth-nair/volume-control-gesture.git
 ```
 
 

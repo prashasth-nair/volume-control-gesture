@@ -40,6 +40,6 @@ Run the script
 
 ## How to Use
 
--  The script captures video feed from the default camera.
+- The script captures video feed from the default camera.
 - Position your hand in front of the camera with your thumb and index finger extended.
 - Move your hand closer or further apart to adjust the volume level.
